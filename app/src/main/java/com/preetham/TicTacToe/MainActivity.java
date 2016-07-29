@@ -14,7 +14,7 @@ import android.widget.TextView;
 public class MainActivity extends ActionBarActivity {
 
     // 0 = yellow, 1 = red
-
+    // this is the sample written statement in main activity
     int activePlayer = 0;
 
     boolean gameIsActive = true;
